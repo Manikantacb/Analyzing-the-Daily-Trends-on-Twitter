@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\twittertrends",
+    "\\twittertrends\\backend",
+    "\\twittertrends\\backend\\models",
+    "\\twittertrends\\backend\\routes",
+    "\\twittertrends\\public",
+    "\\twittertrends\\src",
+    "\\twittertrends\\src\\components"
+  ],
+  "SelectedNode": "\\twittertrends\\src\\components\\commontopics.component.js",
+  "PreviewInSolutionExplorer": false
+}
