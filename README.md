@@ -34,7 +34,8 @@ Node.js as the javascript run time environment.
 The mongoose is utilized to connect to the MongoDB in the backend section of the code. In the front end section we have used react with axios library to communicate with the backend section.
 
 <h3>Results:</h3>
-Goal 1: Finding the second most common word per trending topic.
+Goal 1: Finding the second most common word per trending topic
+
 ![Goal1-1](https://github.com/Manikantacb/Analyzing-the-Daily-Trends-on-Twitter/blob/main/Result1.png)
 ![Goal1-2](https://github.com/Manikantacb/Analyzing-the-Daily-Trends-on-Twitter/blob/main/Result1-1.png)
 
